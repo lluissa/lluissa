@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lluissa
+- 👋 Hi, I’m @lluis
 - 👀 I’m interested in IT enginyering and cybersecurity
 - 🌱 I’m currently learning these fields.
 - 💞️ I’m looking to collaborate on code jobs and cybersecurity projects.
